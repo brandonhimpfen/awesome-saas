@@ -122,6 +122,8 @@
 - [Ahrefs](https://ahrefs.com/) – SEO suite for organic growth strategy.
 - [Buffer](https://buffer.com/) – Social media scheduling for brand awareness.
 - [Fathom Analytics](https://usefathom.com/) – Privacy-first analytics ideal for SaaS businesses operating in regulated markets.
+  [Churnkey](https://churnkey.co/) – Retention infrastructure for SaaS companies, with a open-source cancel flow. 
+
 
 ## Learning Resources
 
