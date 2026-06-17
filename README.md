@@ -120,6 +120,7 @@
 - [Mailchimp](https://mailchimp.com/) – Email marketing platform for onboarding and retention.
 - [ConvertKit](https://convertkit.com/) – Creator-focused email marketing ideal for SaaS landing pages.
 - [Ahrefs](https://ahrefs.com/) – SEO suite for organic growth strategy.
+- [Revolead](https://revolead.ai) – Done-for-you AI search optimization (GEO) and B2B lead generation for SaaS; wins answers in ChatGPT, Perplexity, Gemini and Google AI Overviews.
 - [Buffer](https://buffer.com/) – Social media scheduling for brand awareness.
 - [Fathom Analytics](https://usefathom.com/) – Privacy-first analytics ideal for SaaS businesses operating in regulated markets.
 
