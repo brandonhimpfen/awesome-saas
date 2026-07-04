@@ -113,6 +113,7 @@
 - [GitBook](https://www.gitbook.com/) – Collaborative documentation platform for SaaS teams.
 - [Swagger UI](https://swagger.io/tools/swagger-ui/) – Auto-generated API documentation from OpenAPI specs.
 - [Mintlify](https://www.mintlify.com/) – Documentation-as-code with optimized developer UX.
+- [DokuTrak](https://dokutrak.com) – Client document collection: secure magic-link uploads with AI validation and auto-reminders, no login required.
 
 ## Growth, Marketing & Sales
 
