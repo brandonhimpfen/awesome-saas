@@ -87,6 +87,7 @@
 - [Drift](https://www.drift.com/) – Conversational marketing and chatbots for lead generation.
 - [Crisp](https://crisp.chat/) – Chat and CRM suite for customer messaging and automation.
 - [HelpScout](https://www.helpscout.com/) – Email-first help desk solution ideal for SaaS customer support.
+- [Hermes](https://buildwithhermes.com/) – Platform for deploying AI voice agents that answer and place customer calls, with CRM, campaigns, and white-label workspaces for agencies.
 
 ## Analytics, Metrics & Monitoring
 
