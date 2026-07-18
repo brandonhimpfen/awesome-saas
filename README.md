@@ -33,6 +33,7 @@
 - [Bullet Train](https://bullettrain.co/) – Rails SaaS boilerplate with multi-tenancy and Stripe.
 - [Wasp SaaS Template](https://github.com/wasp-lang/wasp) – Full-stack SaaS template using React and Node.
 - [Nodewood](https://nodewood.com/) – Node.js and Vue.js boilerplate with authentication and subscription features.
+- [SaaS Starter](https://github.com/sayahweb2-png/saas-starter-lite) – Production-ready NestJS 11 + Angular 21 SaaS boilerplate with JWT/OAuth/2FA auth, Stripe subscriptions, multi-tenancy, RBAC, Docker, and Terraform for AWS. [Demo](https://demo.cloudrix.io)
 
 ## Authentication & User Management
 
