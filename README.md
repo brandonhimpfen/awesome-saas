@@ -96,6 +96,7 @@
 - [Google Analytics 4](https://marketingplatform.google.com/about/analytics/) – Web and app analytics for acquisition and engagement.
 - [Datadog](https://www.datadoghq.com/) – Observability platform for monitoring SaaS apps and infrastructure.
 - [Sentry](https://sentry.io/) – Real-time error tracking and performance monitoring.
+- [Apstal](https://apstal.com) – AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant. Free tier: 10K events/month.
 
 ## DevOps, CI/CD & Automation
 
