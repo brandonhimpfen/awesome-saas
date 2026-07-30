@@ -123,6 +123,7 @@
 - [Buffer](https://buffer.com/) – Social media scheduling for brand awareness.
 - [Fathom Analytics](https://usefathom.com/) – Privacy-first analytics ideal for SaaS businesses operating in regulated markets.
 - [Beton Inspector](https://github.com/getbeton/inspector) – Open-source revenue intelligence that connects PostHog product usage to your CRM and detects buying, expansion, and churn signals. Self-hostable (AGPLv3).
+- [Klinky](https://klinky.io) – A/B testing link shortener for splitting one link between two destinations, with real-time click analytics for controlled rollouts.
 
 ## Learning Resources
 
