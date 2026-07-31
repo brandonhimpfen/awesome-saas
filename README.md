@@ -51,6 +51,7 @@
 - [Recurly](https://recurly.com/) – Subscription management platform for SaaS and digital goods.
 - [Lemon Squeezy](https://www.lemonsqueezy.com/) – Merchant of record for SaaS, apps, and digital downloads.
 - [Braintree](https://www.braintreepayments.com/) – Payment processing and subscription features powered by PayPal.
+- [MerchantReady](https://merchantready.org/) – Stripe risk readiness review for SaaS and subscription businesses covering policy clarity, KYC material, subscription transparency, and dispute evidence.
 
 ## Databases & Storage
 
