@@ -78,6 +78,7 @@
 - [Algolia](https://www.algolia.com/) – Hosted search API powering fast, relevant search UX.
 - [SendGrid](https://sendgrid.com/) – Email API for transactional and marketing emails.
 - [Twilio](https://www.twilio.com/) – Messaging, voice, and SMS API for customer communications.
+- [sms-florin](https://flo-voice1.com) – Rent real carrier phone numbers via API/SDK to receive SMS/OTP codes programmatically; useful for QA/CI testing of signup and verification flows without burning a personal number.
 
 ## Customer Support & Communication
 
