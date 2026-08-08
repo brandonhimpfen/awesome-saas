@@ -33,6 +33,7 @@
 - [Bullet Train](https://bullettrain.co/) – Rails SaaS boilerplate with multi-tenancy and Stripe.
 - [Wasp SaaS Template](https://github.com/wasp-lang/wasp) – Full-stack SaaS template using React and Node.
 - [Nodewood](https://nodewood.com/) – Node.js and Vue.js boilerplate with authentication and subscription features.
+- [MailKite SaaS Starter](https://github.com/mailkite/saas-startup) – Production-ready Next.js 15 SaaS starter with self-contained auth (Google/GitHub OAuth + email/password), Stripe subscriptions, teams, Postgres/Drizzle, and a dark-first UI. MIT, with a live demo.
 
 ## Authentication & User Management
 
