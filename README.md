@@ -91,6 +91,7 @@
 
 ## Analytics, Metrics & Monitoring
 
+- [Vacato](https://vacato.io/) - Free RDAP domain availability watchlist with email/Telegram alerts. Not a drop-catcher — alerts only.
 - [Mixpanel](https://mixpanel.com/) – Product analytics for user behavior, funnels, and cohorts.
 - [Amplitude](https://amplitude.com/) – Customer journey and product analytics platform.
 - [PostHog](https://posthog.com/) – Open-source product analytics, session replay, and feature flags.
