@@ -34,6 +34,7 @@
 - [Bullet Train](https://bullettrain.co/) – Rails SaaS boilerplate with multi-tenancy and Stripe.
 - [Wasp SaaS Template](https://github.com/wasp-lang/wasp) – Full-stack SaaS template using React and Node.
 - [Nodewood](https://nodewood.com/) – Node.js and Vue.js boilerplate with authentication and subscription features.
+- [Hype Stack](https://github.com/BetterTyped/hype-stack) – Free MIT fullstack SaaS monorepo with React, Hono, Vite, Postgres, Electron, Expo, and browser extension.
 
 ## Authentication & User Management
 
