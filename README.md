@@ -79,6 +79,7 @@
 - [Algolia](https://www.algolia.com/) – Hosted search API powering fast, relevant search UX.
 - [SendGrid](https://sendgrid.com/) – Email API for transactional and marketing emails.
 - [Twilio](https://www.twilio.com/) – Messaging, voice, and SMS API for customer communications.
+- [StayingAPI](https://stayingapi.com/) – Accommodation data API for Airbnb, Booking.com, Vrbo, and Google Hotels: live listings, rates, and availability via REST and MCP.
 
 ## Customer Support & Communication
 
