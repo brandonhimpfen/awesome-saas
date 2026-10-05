@@ -81,6 +81,7 @@
 - [Twilio](https://www.twilio.com/) – Messaging, voice, and SMS API for customer communications.
 
 ## Customer Support & Communication
+- [AI Group Call](https://aigroupcall.app) - Practice pitches and interviews against a panel of AI voices that push back live, then share the transcript.
 
 - [Intercom](https://www.intercom.com/) – Customer messaging and support inbox with automation features.
 - [Zendesk](https://www.zendesk.com/) – Help desk, ticketing, and customer service tools for SaaS businesses.
