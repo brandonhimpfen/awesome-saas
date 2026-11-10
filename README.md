@@ -79,6 +79,7 @@
 - [Algolia](https://www.algolia.com/) – Hosted search API powering fast, relevant search UX.
 - [SendGrid](https://sendgrid.com/) – Email API for transactional and marketing emails.
 - [Twilio](https://www.twilio.com/) – Messaging, voice, and SMS API for customer communications.
+ - [YouTubeTranscriptAPI](https://youtubetranscriptapi.com/) – Hosted API that returns clean YouTube transcripts as JSON, plus search, channels and playlists.
 
 ## Customer Support & Communication
 
