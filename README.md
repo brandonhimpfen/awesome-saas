@@ -45,7 +45,7 @@
 - [Okta](https://www.okta.com/) – Enterprise-grade identity provider for SaaS access and workforce management.
 
 ## Payments, Billing & Subscriptions
-
+- [BuyKoreaNow SaaS Prepay Calculator](https://buykoreanow.com/prepay-break-even-calculator/) – Interactive break-even calculator comparing annual vs monthly SaaS subscriptions across seat tiers with cash-exposure simulation.
 - [Stripe Billing](https://stripe.com/billing) – Subscription management, metered billing, and automated invoicing.
 - [Paddle](https://www.paddle.com/) – All-in-one merchant of record for global SaaS payments and tax management.
 - [Chargebee](https://www.chargebee.com/) – Subscription billing, invoicing, and revenue operations platform.
